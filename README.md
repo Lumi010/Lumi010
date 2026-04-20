@@ -34,3 +34,10 @@ Computer Systems Engineering student interested in Python, reinforcement learnin
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+## Contact
+
+- Email: imominsial11@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muhammad-momin-52654527a/
+
+![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lumi010&show_icons=true&theme=default)
