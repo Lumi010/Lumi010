@@ -19,3 +19,11 @@ Computer Systems Engineering student interested in Python, reinforcement learnin
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**AI / Simulation / Robotics**
+
+![PyBullet](https://img.shields.io/badge/PyBullet-306998?style=flat&logo=python&logoColor=white)
+![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-111111?style=flat&logo=python&logoColor=white)
+![PPO](https://img.shields.io/badge/PPO-Reinforcement%20Learning-0A66C2?style=flat)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-111111?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
