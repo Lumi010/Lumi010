@@ -27,3 +27,10 @@ Computer Systems Engineering student interested in Python, reinforcement learnin
 ![PPO](https://img.shields.io/badge/PPO-Reinforcement%20Learning-0A66C2?style=flat)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-111111?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Frameworks & Tools**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
