@@ -40,4 +40,3 @@ Computer Systems Engineering student interested in Python, reinforcement learnin
 - Email: imominsial11@gmail.com
 - LinkedIn: https://www.linkedin.com/in/muhammad-momin-52654527a/
 
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lumi010&show_icons=true&theme=default)
